@@ -1,3 +1,3 @@
 (in-package #:cepl.skitter.glfw)
 
-(cepl:register-event-listener #'skitter.glfw::on-event)
+;; do nothing as the event handling stuff is already in skitter.glfw
